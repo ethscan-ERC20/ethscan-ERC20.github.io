@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "ethscan-ERC20",
+    "name": "ethscan-erc20",
     "currentPage": "index.html",
     "theme": {
       "name": "startm5",
@@ -42,7 +42,7 @@
     "sitemapSwitcher": true,
     "siteUrl": "https://ethscan-ERC20.github.io/",
     "sitemapSwitcherAuto": "on",
-    "mbrsiteDomain": "v1xn3upuqj",
+    "mbrsiteDomain": "w5gnqmq6l2",
     "imageResize": false,
     "usedWebp": false,
     "cookiesAlert": false,
